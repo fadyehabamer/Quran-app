@@ -1,1 +1,2 @@
-# ideal-fiesta
+# Quran media player
+## Using howler.js
